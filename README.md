@@ -30,12 +30,13 @@
           
           
           
-  <img align="right" alt="Soethe" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/383344514871459840/973041277375479869/perfil.png?width=676&height=676">
+  
 </div>
   
   ##
  
 <div> 
+  <img align="right" alt="Soethe" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/383344514871459840/973041277375479869/perfil.png?width=676&height=676">
   <a href="https://www.youtube.com/channel/UC1usAxMQqBTjQjv-5nMoqJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/thesoethe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/soethe_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
